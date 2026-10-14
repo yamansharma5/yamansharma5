@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently building a new project: NearU<br>The idea is still evolving, but the goal is clear — to build something that connects the digital world more closely with real local communities. I want to build something that feels useful, practical, and close to real-world business problems.
+I am a builder who focuses on taking products across the finish line. Beyond my internship experience, I recently architected, built, and launched a production web application from scratch. I handled everything end-to-end—from database Schema design and API integration to deploying on cloud infrastructure and configuring custom DNS routing. 
 
 
 ## 🌐 Socials:
